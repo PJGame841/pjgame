@@ -6,6 +6,8 @@
   <h3>I love doing sport like working out 💪 at the gym or cycling 🚲 in the countryside</h3>
   <h3>During my free-time I also make some personnal projects, you can learn more about them on my <a href="https://pj-lefort.com/">portfolio</a></h3>
   
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PJGame841&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
   <h2>Contacts 📞</h2>
   <a target="_blank" rel="noopener noreferrer" href="mailto:pierre-jean.lefort@etu.umontpellier.fr">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -71,7 +73,6 @@
   <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img alt="Spyder" src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white" />
   <img alt="" src="" />
-  
-  
+ 
   
 </div>
