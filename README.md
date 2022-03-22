@@ -2,7 +2,7 @@
   <h1>Bonjour ! I'm Pierre-Jean Lefort 👋</h1>
   
   <h1>Who I am ? ❔</h1>
-  <h3>I'm a french student at the IUT of Montpellier in computer science 💻</h3>
+  <h3>I'm a french student at the UIT of Montpellier in computer science 💻</h3>
   <h3>I love doing sport like working out 💪 at the gym or cycling 🚲 in the countryside</h3>
   <h3>During my free-time I also make some personnal projects, you can learn more about them on my <a href="https://pj-lefort.com/">portfolio</a></h3>
   
